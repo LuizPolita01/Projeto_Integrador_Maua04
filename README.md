@@ -1,4 +1,4 @@
-# Projeto_Integrador_Maua04
+# Projeto_Intregrador_Maua04
 Trabalho desenvolvido para disciplina Projeto Integrador em Computação pelo grupo04 de Mauá.
 Objetivo da discipla é trabalhar o desenvolvimento de um software com framework web que utilize noções de banco de dados e versionamento. E contribuir com a comunidade de Mauá.
 
